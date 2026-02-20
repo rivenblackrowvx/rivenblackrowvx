@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Riven</h1>
-<h3 align="center">Perfil ASIR con perfil de Ciberseguridad, Automatización e Inteligencia Artificial</h3>
+<h3 align="center">Perfil ASIR en Ciberseguridad, Automatización e Inteligencia Artificial</h3>
 
 ---
 
