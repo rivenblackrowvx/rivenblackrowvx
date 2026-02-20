@@ -6,6 +6,7 @@
 ## 👨‍💻 Sobre mí
 
 🎓 Estudiante de **ASIR con perfil de ciberseguirdad** a punto de finalizar (2 meses restantes).  
+
 🔐 Actualmente ampliando conocimientos en **ciberseguridad**, **análisis de sistemas y automatización**, combinando formación académica con práctica en laboratorio.
 
 ⚙️ Enfocado en la construcción de entornos seguros y en el aprendizaje constante mediante laboratorios prácticos.  
