@@ -25,6 +25,7 @@ Actualmente desarrollando mentalidad técnica en:
 - 🔄 Diseño de infraestructuras de automatización con **n8n**
 - 🛡️ Implementación de medidas de protección y hardening en flujos automatizados
 - 🤖 Exploración de nuevas IA aplicadas a seguridad y automatización
+- 💻 Acabando de interiorizar top10 OWASP
 
 
 ## 📚 En proceso de aprendizaje
@@ -66,12 +67,19 @@ Actualmente desarrollando mentalidad técnica en:
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### 🔐 Ciberseguridad
-- SQL Injection (prácticas en laboratorio)
-- Hardening básico
-- Enumeración y explotación controlada en entornos CTF
-- Análisis de vulnerabilidades
-- Automatización segura de procesos
+### 🔐 Ciberseguridad y Análisis
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-214478?style=for-the-badge&logo=linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-A80000?style=for-the-badge&logo=owasp&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-Enumeration-4B8BBE?style=for-the-badge&logo=linux&logoColor=white)
+
+En resumen: 
+- Análisis de tráfico y detección básica de anomalías
+- Interceptación y manipulación de peticiones HTTP en entorno controlado
+- Enumeración activa y reconocimiento en laboratorio
 
 
 ## 🎯 Objetivo Profesional
