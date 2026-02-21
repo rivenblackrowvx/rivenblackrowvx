@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Riven</h1>
 <h3 align="center">Perfil ASIR en Ciberseguridad, Automatización e Inteligencia Artificial</h3>
 
-# 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-🎓 Estudiante de **ASIR (Administración de Sistemas Informáticos en Red)** con especial interés en ciberseguridad.  
-Actualmente en la fase final de la formación.
+🎓 Estudiante de **ASIRc (Administración de Sistemas Informáticos en Red con perfil de ciberseguridad)**.  
+Actualmente en la fase final de la formación de CFGS.
 
 Enfocado en:
 
@@ -15,7 +15,7 @@ Enfocado en:
 
 Trabajo principalmente en laboratorio propio (homelab) para reforzar conocimientos prácticos.
 
-# 🚀 Actualmente trabajando en
+## 🚀 Actualmente trabajando en
 
 - 🧪 Homelabs de ciberseguridad  
 - 🎯 Resolución de máquinas en Hack The Box y TryHackMe  
@@ -79,7 +79,7 @@ Experiencia práctica en laboratorio:
 - Enumeración y reconocimiento básico  
 - Configuración y hardening de sistemas Linux  
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 Continuar desarrollando conocimientos en ciberseguridad y automatización mediante práctica constante en laboratorio y proyectos propios.
 
