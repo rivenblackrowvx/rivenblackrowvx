@@ -1,40 +1,36 @@
 <h1 align="center">Hola 👋, soy Riven</h1>
 <h3 align="center">Perfil ASIR en Ciberseguridad, Automatización e Inteligencia Artificial</h3>
 
----
+# 👨‍💻 Sobre mí
 
-## 👨‍💻 Sobre mí
+🎓 Estudiante de **ASIR (Administración de Sistemas Informáticos en Red)** con especial interés en ciberseguridad.  
+Actualmente en la fase final de la formación.
 
-🎓 Estudiante de **ASIR con perfil de ciberseguirdad** a punto de finalizar (2 meses restantes).  
+Enfocado en:
 
-🔐 Actualmente ampliando conocimientos en **ciberseguridad**, **análisis de sistemas y automatización**, combinando formación académica con práctica en laboratorio.
+- Hardening de sistemas Linux  
+- Pentesting básico en entornos controlados  
+- Automatización de tareas e infraestructuras  
+- Integración de IA en flujos de trabajo con n8n  
 
-⚙️ Enfocado en la construcción de entornos seguros y en el aprendizaje constante mediante laboratorios prácticos.  
+Trabajo principalmente en laboratorio propio (homelab) para reforzar conocimientos prácticos.
 
-Actualmente desarrollando mentalidad técnica en:
-- Hardening de sistemas
-- Pentesting básico
-- Automatización segura
-- Integración de IA en flujos de trabajo con n8n juntamente con herramientas AI
+# 🚀 Actualmente trabajando en
 
-
-## 🚀 Actualmente trabajando en
-
-- 🧪 **Homelabs de Ciberseguridad**
-- 🎯 Resolución de máquinas en **Hack The Box** y **TryHackMe**
-- 🔄 Diseño de infraestructuras de automatización con **n8n**
-- 🛡️ Implementación de medidas de protección y hardening en flujos automatizados
-- 🤖 Exploración de nuevas IA aplicadas a seguridad y automatización
-- 💻 Acabando de interiorizar top10 OWASP
+- 🧪 Homelabs de ciberseguridad  
+- 🎯 Resolución de máquinas en Hack The Box y TryHackMe  
+- 🔄 Automatizaciones con n8n  
+- 🛡️ Aplicación de medidas de seguridad en entornos Linux  
+- 📚 Estudio práctico del OWASP Top 10  
 
 
 ## 📚 En proceso de aprendizaje
 
-- Pentesting nivel básico-intermedio
-- Seguridad en automatizaciones y entornos productivos  
+- Pentesting nivel básico–intermedio  
+- Seguridad en automatizaciones  
 - Arquitecturas seguras en Linux  
-- Protección ante ataques comunes (inyecciones, escaladas, mala configuración)
-- Cert eJPTv2
+- Prevención de vulnerabilidades comunes (inyecciones, escaladas, mala configuración)  
+- Preparación para eJPTv2  
 
 
 ## 🛠️ Habilidades y Tecnologías
@@ -76,25 +72,15 @@ Actualmente desarrollando mentalidad técnica en:
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-A80000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-Enumeration-4B8BBE?style=for-the-badge&logo=linux&logoColor=white)
 
-En resumen: 
-- Análisis de tráfico y detección básica de anomalías
-- Interceptación y manipulación de peticiones HTTP en entorno controlado
-- Enumeración activa y reconocimiento en laboratorio
+Experiencia práctica en laboratorio:
+
+- Análisis de tráfico de red  
+- Interceptación y prueba de peticiones HTTP en entorno controlado  
+- Enumeración y reconocimiento básico  
+- Configuración y hardening de sistemas Linux  
+
+# 🎯 Objetivo
+
+Continuar desarrollando conocimientos en ciberseguridad y automatización mediante práctica constante en laboratorio y proyectos propios.
 
 
-## 🎯 Objetivo Profesional
-
-Actualmente me encuentro en etapa de crecimiento como **aprendiz de ciberseguridad nivel básico**, con enfoque en:
-
-- 🔐 Seguridad ofensiva y defensiva
-- 🤖 Integración de IA en ciberseguridad
-- ⚙️ Automatización segura de infraestructuras
-- 🛡️ Protección de sistemas Linux y entornos productivos
-
-Mi meta es evolucionar hacia un perfil sólido en **Ciberseguridad + Automatización + Inteligencia Artificial**, combinando conocimientos técnicos de ASIR en perfil de ciberseguridad con práctica constante en entornos controlados.
-
-
-## 📈 Mentalidad
-
-> "Si algo está expuesto a internet, ya es un objetivo. La seguridad no es opcional."
-> "No construyo sistemas solo para que funcionen, sino para que resistan."
