@@ -71,7 +71,7 @@ Perfil técnico orientado a **ciberseguridad** y **DevOps**. Me enfoco en proteg
 
 ## 🚀 Proyectos
 
-- **[FireGuard](https://github.com/)**: plataforma de inteligencia de incendios forestales que integra APIs de datos reales (satélite, meteorología, OpenStreetMap) y detección de humo con IA.
+- **[FireGuard](https://github.com/rivenblackrowvx/FIREGUARD/)**: plataforma de inteligencia de incendios forestales que integra APIs de datos reales (satélite, meteorología, OpenStreetMap) y detección de humo con IA.
 - **Homelab de ciberseguridad**: entorno de pruebas para pentesting, hardening y automatización de seguridad.
 
 ---
